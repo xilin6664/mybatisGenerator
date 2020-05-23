@@ -4,4 +4,3 @@ mybatis逆向工程的代码
 jdbc的jar包路径,数据库连接的信息,实体类,dao接口,mapper映射文件的包名替换掉,
 在test中的类中运行main方法即可生成对应的实体类.dao接口.mapper映射文件.
 新增试试
-地二次新增了.
